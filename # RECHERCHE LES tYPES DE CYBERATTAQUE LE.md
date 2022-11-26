@@ -1,9 +1,8 @@
 #  RECHERCHE LES TYPES DE CYBERATTAQUE LES PLUS COURANT 
-## RECHERCHE
 Une **cyberattaque** est tout type d’action offensive qui vise des systèmes, des infrastructures ou des
 réseaux informatiques, ou encore des ordinateurs personnels, en s’appuyant sur diverses méthodes pour voler, modifier ou détruire des données ou des systèmes informatiques.
-------
-|       LES TYPES DE CYBERATTAQUE                            |
+---------------------
+**LES TYPES DE CYBERATTAQUE**
 | type d'attaque              | example d'attaques      |
 | --------------------------- | --------------------------- |
 | Attaques par déni de service (DoS) et par déni de service distribué (DDoS) |Attaque TCP SYN flood,Attaque teardrop,Attaque Smurf,Ping of deathBotnets|
