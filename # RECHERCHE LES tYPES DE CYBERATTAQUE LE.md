@@ -18,7 +18,7 @@ réseaux informatiques, ou encore des ordinateurs personnels, en s’appuyant su
 | Attaque d’anniversaire |  |
 
 
-#**Politique de sécurité  selon ITSEC TOGO**
+#Politique de sécurité  selon ITSEC TOGO
 Les politiques de sécurité de l’information sont une partie importante des activités visant à établir des
 règles et des lignes directrices pour des fonctionnalités numériques efficaces afin de protéger les actifs
 de l’OSE et de ses infrastructures essentielles.
