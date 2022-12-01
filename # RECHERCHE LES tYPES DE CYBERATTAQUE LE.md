@@ -2,8 +2,7 @@
 ## RECHERCHE
 Une **cyberattaque** est tout type d’action offensive qui vise des systèmes, des infrastructures ou des
 réseaux informatiques, ou encore des ordinateurs personnels, en s’appuyant sur diverses méthodes pour voler, modifier ou détruire des données ou des systèmes informatiques.
-------
-|       LES TYPES DE CYBERATTAQUE                            |
+###   LES TYPES DE CYBERATTAQUE                            |
 | type d'attaque              | example d'attaques      |
 | --------------------------- | --------------------------- |
 | Attaques par déni de service (DoS) et par déni de service distribué (DDoS) |Attaque TCP SYN flood,Attaque teardrop,Attaque Smurf,Ping of deathBotnets|
@@ -17,3 +16,12 @@ réseaux informatiques, ou encore des ordinateurs personnels, en s’appuyant su
 | Attaque XSS (Cross-site scripting) |  |
 | Attaque par écoute illicite |Écoute clandestine active,Écoute clandestine passive |
 | Attaque d’anniversaire |  |
+
+
+#**Politique de sécurité  selon ITSEC TOGO**
+Les politiques de sécurité de l’information sont une partie importante des activités visant à établir des
+règles et des lignes directrices pour des fonctionnalités numériques efficaces afin de protéger les actifs
+de l’OSE et de ses infrastructures essentielles.
+Les politiques fourniront un cadre, une orientation de gestion et un soutien en matière de
+cybersécurité pour l’OSE conformément aux exigences opérationnelles et aux lois et règlements
+applicables.
